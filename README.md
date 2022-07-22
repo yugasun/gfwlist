@@ -17,6 +17,7 @@ git clone https://github.com/yugasun/gfwlist
 make init
 
 # 2. update list.txt
+# Rule refer to https://adblockplus.org/en/filter-cheatsheet
 
 # 3. sync to git
 make sync
